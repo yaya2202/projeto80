@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    background-color: lightgrey;
+}
+#text-box {
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 4px 4px lightcyan;
+}
+button {
+    box-shadow: 2px 2px lightskyblue;
+}
+#div2 {
+     text-transform: capitalize;  
+    text-align: left;
+    background-color: rgb(185, 185, 185);
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
